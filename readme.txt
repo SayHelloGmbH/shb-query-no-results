@@ -1,4 +1,4 @@
-=== Query No Results ===
+=== Block: Query No Results ===
 Contributors:      mhowellsmead, poena
 Tags:              block
 Tested up to:      5.9
@@ -8,22 +8,11 @@ License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 Provides a block wrapper for elements which should be displayed when there are no resutls found in a query loop block.
 
-== Description ==
-
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
-
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload the plugin files to the `/wp-content/plugins/shb-query-no-results` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
-3. You can add the “query no results” block within a query loop block. (Outside the post template.)
+3. You can add the “No results” block within a query loop block. (Outside the post template.)
 
 == Changelog ==
 

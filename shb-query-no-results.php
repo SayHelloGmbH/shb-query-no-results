@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Plugin Name:       Query No Results
- * Description:       Provides a block wrapper for elements which should be displayed when there are no resutls found in a query loop block.
+ * Plugin Name:       Block: Query No Results
+ * Description:       Provides a block wrapper for elements which should be displayed when there are no results found in a query loop block.
  * Requires at least: 5.8
  * Requires PHP:      7.0
  * Version:           0.1.0
