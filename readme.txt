@@ -6,7 +6,7 @@ Stable tag:        0.2.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Provides a block wrapper for elements which should be displayed when there are no resutls found in a query loop block.
+Provides a block wrapper for elements which should be displayed when there are no results found in a query loop block.
 
 == Installation ==
 
