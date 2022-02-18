@@ -7,9 +7,17 @@
 	"category": "widgets",
 	"icon": "smiley",
 	"description": "Provides a block wrapper for elements which should be displayed when there are no resutls found in a query loop block.",
+	"parent": ["core/query"],
 	"supports": {
-		"html": false
+		"align": true,
+		"reusable": false,
+		"html": false,
+		"color": {
+			"gradients": true,
+			"link": true
+		}
 	},
 	"textdomain": "shb-query-no-results",
+	"usesContext": ["queryId", "query"],
 	"editorScript": "file:./index.js"
 }
