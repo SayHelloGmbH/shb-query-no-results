@@ -16,5 +16,8 @@ Provides a block wrapper for elements which should be displayed when there are n
 
 == Changelog ==
 
+= 0.2.0 =
+* Extend plugin to use parent block context.
+
 = 0.1.0 =
-* Release
+* Release.
