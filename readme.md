@@ -8,6 +8,8 @@ License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 Provides a block wrapper for elements which should be displayed when there are no results found in a query loop block.
 
+This plugin is closely based on preparatory work by Carolina Nymark for a WordPress Core implementation.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/shb-query-no-results` directory, or install the plugin through the WordPress plugins screen directly.
