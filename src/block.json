@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "shb/shb-query-no-results",
+	"version": "0.1.0",
+	"title": "shb Query No Results",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "shb-query-no-results",
+	"editorScript": "file:./index.js"
+}
